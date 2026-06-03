@@ -18,14 +18,14 @@ Agent automatically reads data from Google Sheets and sends a clean daily status
 Agent extracts information from a new email and fill up the database automatically while also sending a telegram alert.
 
 ### Workflow Diagram (Excalidraw)
-![Excalidraw Diagram](images/)
+![Excalidraw Diagram](images/Email-booking+Database-Auto-update-excalidraw.png)
 
 ### n8n Workflow Screenshot
-![n8n Workflow](images/)
+![n8n Workflow](images/Email-booking+Database-Auto-update-n8n.png)
 
 ### screenshots of the email - updated database(google sheets) - telegram alert 
-(images/
-(images/
-(images/
+![Trigger Email](images/Email-booking+Database-Auto-update-trigger-email.png)
+![Updated Database](images/Email-booking+Database-Auto-update-database.png)
+![Telegram Alert](images/Email-booking+Database-Auto-update-telegram-alert.png)
 
 ---
