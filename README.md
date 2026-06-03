@@ -1,10 +1,12 @@
-This repository contains images of my n8n workflows and automation projects.
+This repository contains images of my n8n workflows and automation projects. These are made from scratch and tested end to end, ready to use, unless stated otherwise. 
 
 Content:
 
-  - Workflow 1: Daily Status + Telegram Alert
+  - Workflow 1: Daily Status + Telegram Alert (Basic Workplace)
 
-  - Workflow 2: Email booking + Database Auto update
+  - Workflow 2: Email booking + Database Auto update (Basic Workplace)
+
+
 
 
 ## Workflow 1: Daily Status + Telegram Alert
@@ -22,7 +24,7 @@ Agent automatically reads data from Google Sheets and sends a clean daily status
 ## Workflow 2: Email booking + Database Auto update
 
 **Description:**  
-Agent extracts information from a new email and fill up the database automatically while also sending a telegram alert.
+Agent extracts information from specific new emails and fills up the related database automatically while also sending a telegram alert.
 
 ### Workflow Diagram (Excalidraw)
 ![Excalidraw Diagram](images/Email-booking+Database-Auto-update-excalidraw.png)
