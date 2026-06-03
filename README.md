@@ -11,4 +11,21 @@ Agent automatically reads data from Google Sheets and sends a clean daily status
 ### n8n Workflow Screenshot
 ![n8n Workflow](images/status-bot-1-n8n.png)
 
+
+## Workflow 2: Email booking + Database Auto update
+
+**Description:**  
+Agent extracts information from a new email and fill up the database automatically while also sending a telegram alert.
+
+### Workflow Diagram (Excalidraw)
+![Excalidraw Diagram](images/)
+
+### n8n Workflow Screenshot
+![n8n Workflow](images/)
+
+### screenshots of the email - updated database(google sheets) - telegram alert 
+(images/
+(images/
+(images/
+
 ---
