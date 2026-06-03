@@ -7,7 +7,8 @@ Content:
 
   - Workflow 2: Email booking + Database Auto update (Basic Workplace)
 
-
+  - Workflow 3: Time sensitive tracking + Delay alert
+	
 
 
 ## Workflow 1: Daily Status + Telegram Alert
@@ -37,5 +38,21 @@ Agent extracts information from specific new emails and fills up the related dat
 ![Trigger Email](images/Email-booking+Database-Auto-update-trigger-email.png)
 ![Updated Database](images/Email-booking+Database-Auto-update-database.png)
 ![Telegram Alert](images/Email-booking+Database-Auto-update-telegram-alert.png)
+
+
+## Workflow 3: Time sensitive tracking + Delay alert 
+
+**Description:**  
+Agent uses filtered information from database to for a sceduled alert for delays. Informs users of time sensitive taks on a fixed routine. 
+
+### Workflow Diagram (Excalidraw)
+![Excalidraw Diagram](images/images/Time-sensitive-tracking+Delay-alert-excalidraw.png)
+
+### n8n Workflow Screenshot
+![n8n Workflow](images/images/Time-sensitive-tracking+Delay-alert-n8n.png)
+
+### Database(google sheets) - telegram alert 
+![Database](images/images/Time-sensitive-tracking+Delay-alert-database.png)
+![Telegram Alert](images/images/Time-sensitive-tracking+Delay-alert-telegram.png)
 
 ---
