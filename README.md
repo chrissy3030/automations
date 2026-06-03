@@ -46,13 +46,13 @@ Agent extracts information from specific new emails and fills up the related dat
 Agent uses filtered information from database to for a sceduled alert for delays. Informs users of time sensitive taks on a fixed routine. 
 
 ### Workflow Diagram (Excalidraw)
-![Excalidraw Diagram](images/images/Time-sensitive-tracking+Delay-alert-excalidraw.png)
+![Excalidraw Diagram](images/Time-sensitive-tracking+Delay-alert-excalidraw.png)
 
 ### n8n Workflow Screenshot
-![n8n Workflow](images/images/Time-sensitive-tracking+Delay-alert-n8n.png)
+![n8n Workflow](images/Time-sensitive-tracking+Delay-alert-n8n.png)
 
 ### Database(google sheets) - telegram alert 
-![Database](images/images/Time-sensitive-tracking+Delay-alert-database.png)
-![Telegram Alert](images/images/Time-sensitive-tracking+Delay-alert-telegram.png)
+![Database](images/Time-sensitive-tracking+Delay-alert-database.png)
+![Telegram Alert](images/Time-sensitive-tracking+Delay-alert-telegram.png)
 
 ---
