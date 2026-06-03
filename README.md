@@ -1,5 +1,11 @@
 This repository contains my n8n workflows and automation projects.
 
+Content:
+Workflow 1: Daily Status + Telegram Alert
+Workflow 2: Email booking + Database Auto update
+
+
+
 ## Workflow 1: Daily Status + Telegram Alert
 
 **Description:**  
